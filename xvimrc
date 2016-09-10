@@ -1,0 +1,3 @@
+nmap 0 ^
+set ignorecase smartcase
+set blinkcursor
